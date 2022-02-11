@@ -71,7 +71,7 @@ id,first_name,last_name,email,gender,Company,City
 70,Ashely,Sidworth,asidworth1x@bbb.org,Female,"Kshlerin  Weber and Hane",Auburn
 71,Leta,Crackel,lcrackel1y@theglobeandmail.com,Female,"Gerhold  Becker and Hackett",Tukwilla
 72,Albert,Seabrooke,aseabrooke1z@house.gov,Male,"Wyman and Sons",Seattle
-73,Shay,Eudall,seudall20@t.co,"Bigender,Brown Inc",Kent
+73,Shay,Eudall,seudall20@t.co,Bigender,"Brown Inc",Kent
 74,Benjamen,Llopis,bllopis21@prweb.com,Female,"Schowalter LLC",Auburn
 75,Wayne,Weston,wweston22@bbc.co.uk,Female,"Keeling-Konopelski",Tukwilla
 76,Koren,Venart,kvenart23@dagondesign.com,Genderqueer,"Leuschke and Sons",Seattle
