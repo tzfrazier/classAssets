@@ -44,7 +44,7 @@ id,first_name,last_name,email,gender,Company,City
 43,Osborn,Ollive,oollive16@sina.com.cn,Male,"Emard-Kassulke",Kent
 44,Amaleta,McLaggan,amclaggan17@parallels.com,Male,"Bernhard and Son",Auburn
 45,Dre,Wyon,dwyon18@utexas.edu,Female,"Hudson and Sons",Tukwilla
-46,Danice,Laudham,dlaudham19@nytimes.com,"Bigender,Ledner  Kertzmann and Harber",Tukwilla
+46,Danice,Laudham,dlaudham19@nytimes.com,Bigender,"Ledner Kertzmann and Harber",Tukwilla
 47,Joel,Barsam,jbarsam1a@topsy.com,Female,"Okuneva-Lemke",Kent
 48,Leonard,Bruneton,lbruneton1b@dion.ne.jp,Agender,"Leuschke and Sons",Auburn
 49,Tessy,Tolumello,ttolumello1c@wikia.com,Female,"Ruecker  Schroeder and Casper",Tukwilla
@@ -58,7 +58,7 @@ id,first_name,last_name,email,gender,Company,City
 57,Trumann,Presswell,tpresswell1k@bloomberg.com,Female,"Koch  Bins and Watsica",Tukwilla
 58,Ardith,Shellum,ashellum1l@state.tx.us,Male,"Grimes-Simonis",Tukwilla
 59,Karole,Barfford,kbarfford1m@smugmug.com,Female,"Grimes-McClure",Kent
-60,Felizio,O"Halloran,fohalloran1n@pagesperso-orange.fr,Female,"Hayes LLC",Auburn
+60,Felizio,O Halloran,fohalloran1n@pagesperso-orange.fr,Female,"Hayes LLC",Auburn
 61,Nedda,Farahar,nfarahar1o@wordpress.com,Female,"Lowe LLC",Tukwilla
 62,Cyndy,Jeffs,cjeffs1p@themeforest.net,Male,"Hudson-Collins",Tukwilla
 63,Emmi,Aprahamian,eaprahamian1q@harvard.edu,Male,"Lindgren  Spencer and Hoppe",Kent
