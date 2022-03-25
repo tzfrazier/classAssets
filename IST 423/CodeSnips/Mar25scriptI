@@ -1,6 +1,6 @@
 /*Delete old tables */
-DROP TABLE ; --Deletes the assigned contact table from database
-DROP TABLE ; --Deletes the contacts TABLE
+DROP TABLE contacts; --Deletes the assigned contact table from database
+DROP TABLE assignedcontacts; --Deletes the contacts TABLE
 /* Create tables to load data into */
 CREATE TABLE contacts (  -- Creates table
   id varchar(5), -- Creates ID feilds
@@ -18,6 +18,6 @@ CREATE TABLE assigned_contacts ( -- Creates table
   Contact_ID Varchar(5)
 ) ;
 
-COPY assignedcontacts
+COPY assigned_contacts
 FROM 'C:\Users\Public\Assigned_Contacts.csv'
 WITH (FORMAT CSV, HEADER);
