@@ -22,7 +22,7 @@ CREATE TABLE offices (
   City varchar(50) NOT NULL,
   State Char(2) NOT NULL,
   Zip varchar(5) NOT NULL,
-  CONSTRAINT zip CHECK (LENgth(Zip)<5)
+  CONSTRAINT zip CHECK (LENgth(Zip)>5)
 );
 CREATE TABLE staff (
   ID varchar(5) PRIMARY KEY,
