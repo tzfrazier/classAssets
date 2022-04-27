@@ -24,11 +24,5 @@ These files include tables with the following values:
 ## Interrogating the database
 From this data set and the database set up in pgAdmin 4 using the scripts found [here](https://github.com/tzfrazier/classAssets/blob/main/IST%20423/CodeSnips/ARP8SNIPS1)  we decided to attempt to offer answers to the following questions that might be relevant to a commercial property management firm using such a data set (see flat files link above).
 
-- Which staff members work with which contacts?
-- Which staff don't have an assigned contact?
-- which contacts don't have an assigned staff?
-- What is the total potential value of each offices? Check
-- What money are offices leaving on the table?
-- How much how profit is each office or a particular office leaving on the table?
-- Who makes the most money for the company?
-- Who costs the most?
+# April 14, 2022
+Created views. These views answer questions about individual members, but could be used to create data which would answer the broader questions we seek to answer.
