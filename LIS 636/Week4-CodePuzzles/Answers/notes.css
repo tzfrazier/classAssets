@@ -1,0 +1,166 @@
+/*Page Basics/layout*/
+body
+{
+padding: 5% 20% 10% 10.5% ;
+font-family: "Helvetica Neue", Helvetica, sans-serif;
+background: #f7f7f7;
+}
+hr
+{
+    border-color: #21578a;
+    }
+/*nav*/
+nav {
+  height:;
+  position: fixed;
+  top:0;
+  left:0;
+  right:0;
+  background-color: #73000a;
+}
+nav > ul {top:0;
+margin:0;}
+nav > ul > li {
+  display: inline-block;
+  margin-left:15px  ;
+
+  top:0;
+}
+nav > ul > li > a {
+  text-decoration:none;
+  border: solid;
+  border-radius: 5px;
+  border-color:#fff;
+  padding:5px;
+  color:#fff;
+}
+nav > ul > li > a:hover {
+    background-color:#fff;
+    color:#73000a;
+    font-weight: bold;
+}
+
+/*headings*/
+h1, h2, h3, h4
+{
+  font-family: Helvetica;
+  font-weight: lighter;
+  color:#73000a;
+  font-variant: small-caps;
+  margin-left: -5%;
+}
+h1
+{
+  margin-left: -10%;
+  border-bottom: 1px dashed #21578a
+}
+h5
+{
+  font-variant: small-caps;
+  text-decoration: underline;
+  letter-spacing: 1px;
+}
+.noteTitle
+{
+  margin-left: 0%;
+  border-bottom: none;
+  text-align:center;
+  font-size: 4em;
+}
+
+
+/*text*/
+p
+{
+  line-height: 1.55em;
+  font-size: 1.06em;
+  letter-spacing: 0.5px;
+}
+li
+{
+  font-size: 0.90em;
+  padding-bottom:8px;
+    line-height: 1.5em;
+    letter-spacing: 0.5px;
+}
+li > ul > li, li > ol > li {
+  padding-top: 4px;
+}
+/*blockquote*/
+blockquote
+{
+  color:#777;
+  letter-spacing: 0.3px;
+  line-height: 1.5em;
+  font-size: 1.15em;
+  font-weight: 400;
+  font-style: normal;
+}
+/*tables*/
+table
+{
+width:35%;
+}
+th
+{
+  color: #73000a;
+  text-decoration: underline;
+  text-align: left;
+}
+tr
+{line-height: 1.5em;}
+td:first-child
+{
+  padding-right: 2.4%;
+    border-right:dotted;
+  border-right-width:1px;
+}
+em .note
+{
+  color:#73000a;
+  letter-spacing: normal;
+}
+td
+{border-bottom: dotted;
+border-bottom-width: 1px;}
+
+
+
+/*Notes*/
+.note
+{
+  color:#73000a;
+  letter-spacing: normal;
+}
+.footnote {
+  font-size: 0.75em;
+  font-weight: bold;
+  vertical-align: top;
+}
+.zThoughts {
+  font-style: oblique;
+  color: #21578a;
+}
+/*Citations*/
+.citation
+{
+  display: inline-block;
+  text-decoration: none;
+  font-weight: medium;
+  color:black;
+}
+.citation:hover
+{
+  padding: 0 5px 0 5px ;
+border: dotted;
+border-width: 1px;
+border-radius: 5px;
+border-color:#21578a;
+text-decoration:;
+color:#73000a;
+}
+.fReading
+{
+  color: #21578a;
+  text-decoration: underline;
+}
