@@ -1,0 +1,38 @@
+/*Do not change these*/
+body {background-color: #c0c0c0;}
+header {
+  background-color: #e04f26;
+  color:white;
+  margin: 0px 20px;
+  padding: 10px; }
+main {
+  margin: 15px 0px;
+}
+.blue {background-color: #3433CB;
+  height: 750PX;
+  width: 60%;
+  margin: 5px;
+  padding: 15px 50px 0px 30px;
+  color: white;
+}
+.blue figure {
+  width: 75%;
+  float:right;
+   /*This may need to be changed.*/
+}
+.blue img {
+width: 100%;
+}
+.yellow {background-color: #f0e437;
+  height:500px;
+  width:25%;
+  padding:15px 30px;
+}
+footer {background-color: #04C78E;
+  height: 250px;
+  width: 100%;
+  padding: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+/*Add your own rules here to make the layout look like the right Puzzle wireframe in the image.*/
