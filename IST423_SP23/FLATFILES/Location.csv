@@ -1,0 +1,9 @@
+LocID,LocType,Street,City,State,ZIP
+"B001","Store","2339 Fair Oaks Boulevard","Sacramento","CA","95825"
+"C001","Cafe","160 Inland Ctr","San Bernadino","CA","92408"
+"B002","Store","925 Blossom Hill Road","San Jose","CA","95123"
+"W001","Warehouse","356 Santana Row","San Jose","CA","95128"
+"B003","Store","1200 Pacific Ave","Santa Cruz","CA","95060"
+"B004","Store","120 Crescent Dr","Pleasant Hill","CA","94523"
+"W002","Warehouse","500 First Street","Davis","CA","95616"
+"HQ01","Headquarters","241 W Esplanade Dr","Oxnard","CA","93036"

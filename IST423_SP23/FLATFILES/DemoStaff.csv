@@ -1,0 +1,17 @@
+Staff_No,Staff_F_Name,Staff_L_Name,Position,Salary,Office
+A1,Bill,Smith,'Manager',120000,AU1
+A2,Sally,Williams,'Sales Person',70000,AU1
+A3,Sue,Gregory,'Sales Person',65000,AU1
+A4,Regina,Hall,'Sales Person',80000,AU1
+S1,Cassidy,Applebaum,'CEO',250000,SEA1
+S2,Tyrell,Baker,'Manager',140000,SEA1
+S3,Sam,Knutson,'Sales Person',80000,SEA1
+S4,George,Delasanta,'Sales Person',90000,SEA1
+S5,George,Santos,'Sales Person',100000,SEA1
+T1,William,Finkley,'Manager',100000,TU1
+T2,Sam,Finley,'Sales Person',70000,TU1
+T3,James,Waterhouse,'Sales Person',80000,TU1
+K1,Fen,Foo,'Manager',95000,KE1
+K2,Evegeny,Premekov,'Sales Person',55000,KE1
+B1,Walter,Picard,'Manager',125000,BEL1
+B2,William,Paul,'Sales Person',95000,TU1
