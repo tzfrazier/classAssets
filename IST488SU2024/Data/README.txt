@@ -1,0 +1,2 @@
+The files contained in this folder are campaign finance documents for North Carolina Candiate from Office. The data was pulled from the North Carolina State Board of Elections found via searching for candidate names here (https://www.ncsbe.gov/campaign-finance/search-campaign-funding-and-spending-reports-and-penalties). The resulting CSV files were processed and renamed, to make them more suitable to working in python. It is recommended that you use the source data and process according to your own needs. 
+-ZF

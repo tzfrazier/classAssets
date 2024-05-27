@@ -1,0 +1,345 @@
+Date,IsPrior,Name,Street1,Street2,City,State,FullZip,CountryName,OutsideUSPostalCode,Profession,EmployersName,Purpose,ReceiptTypeDesc,AccountAbbr,FormOfPaymentDesc,Description,Amount,SumToDate
+08/14/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,5.0000,5.0000
+08/14/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,25.0000
+08/14/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,50.0000,50.0000
+08/15/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,25.0000
+08/17/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,10.0000,10.0000
+08/21/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,5.0000,25.0000
+08/22/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Check,,15.0000,15.0000
+08/30/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,50.0000,50.0000
+08/30/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,25.0000
+08/30/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,5.0000,20.0000
+08/30/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,15.0000,15.0000
+08/31/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,125.0000
+09/01/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,100.0000
+09/01/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,25.0000
+09/04/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,10.0000,50.0000
+09/04/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,15.0000,75.0000
+09/12/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,100.0000
+09/13/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,50.0000,50.0000
+09/22/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Check,,50.0000,50.0000
+09/22/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,5.0000,25.0000
+09/26/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,10.0000,100.0000
+09/27/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,25.0000
+09/28/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,25.0000
+09/30/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,5.0000,20.0000
+09/30/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,125.0000
+10/01/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,100.0000
+10/04/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,10.0000,50.0000
+10/04/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,15.0000,75.0000
+10/07/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,25.0000
+10/09/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,75.0000
+10/22/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,5.0000,25.0000
+10/30/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,5.0000,20.0000
+11/04/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,10.0000,50.0000
+11/09/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,75.0000
+11/22/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,5.0000,25.0000
+11/27/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,10.0000,30.0000
+11/30/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,5.0000,20.0000
+12/04/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,10.0000,50.0000
+12/08/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,25.0000
+12/17/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,50.0000,50.0000
+12/18/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Check,,50.0000,50.0000
+12/18/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Cash,,40.0000,40.0000
+12/19/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,25.0000,25.0000
+12/19/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Check,,50.0000,50.0000
+12/20/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,50.0000,50.0000
+12/22/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,5.0000,25.0000
+12/27/2023,,Aggregated Individual Contribution,,,,,,,,,,,Individual Contribution,01,Credit Card,,10.0000,30.0000
+11/28/2023,,Thomas Adams,151 Crest Rd,,Southern Pines,NC,28387-3148,,,Principal,Seaboard Assn Management Services,,Individual Contribution,01,Check,,250.0000,250.0000
+12/28/2023,,William Clay Adams,414 Eastover Rd,,Charlotte,NC,28207-2352,,,Beverage Distribution,Adams Beverages of NC LLC,,Individual Contribution,01,Check,,6400.0000,6400.0000
+10/29/2023,,John M. Alexander Jr.,2809 Manning Pl,,Raleigh,NC,27608-1137,,,President,Cardinal Trucks International,,Individual Contribution,01,Check,,250.0000,250.0000
+10/29/2023,,Frances M. Almond,138 Danielle Dr,,Stanfield,NC,28163-7650,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,5000.0000,5000.0000
+11/06/2023,,G Thomas Ammons Jr.,104 Sterling Ln,,Laurinburg,NC,28352-5526,,,Consultant,EHC Environmental,,Individual Contribution,01,Check,,5000.0000,5000.0000
+09/12/2023,,James I Anthony Jr,1201 Edwards Mill Rd,Ste 300,Raleigh,NC,27607-3625,,,CEO,APG,,Individual Contribution,01,Check,,1000.0000,6400.0000
+10/05/2023,,James I Anthony Jr,1201 Edwards Mill Rd,Ste 300,Raleigh,NC,27607-3625,,,CEO,APG,,Individual Contribution,01,Check,,1000.0000,6400.0000
+10/29/2023,,James I Anthony Jr,1201 Edwards Mill Rd,Ste 300,Raleigh,NC,27607-3625,,,CEO,APG,,Individual Contribution,01,Check,,1000.0000,6400.0000
+12/18/2023,,James I Anthony Jr,1201 Edwards Mill Rd,Ste 300,Raleigh,NC,27607-3625,,,CEO,APG,,Individual Contribution,01,Check,,400.0000,6400.0000
+12/18/2023,,Regina Anthony,1201 Edwards Mill Road,300,Raleigh,NC,27607-0180,,,Project Manager,APG,,Individual Contribution,01,Check,,600.0000,600.0000
+09/07/2023,,Dale Ardizzone,6310 Woodleigh Oaks Dr,,Charlotte,NC,28226-8532,,,COO,"Insp, LLC",,Individual Contribution,01,Credit Card,,6400.0000,6400.0000
+08/15/2023,,Kim Atkinson,11503 Silverfern Ln,,Charlotte,NC,28277-2787,,,Makeup artist,Kim Atkinson,,Individual Contribution,01,Credit Card,,200.0000,450.0000
+11/27/2023,,Kim Atkinson,11503 Silverfern Ln,,Charlotte,NC,28277-2787,,,Makeup artist,Kim Atkinson,,Individual Contribution,01,Credit Card,,250.0000,450.0000
+11/16/2023,,Stephen Edward Austin,2212 Dahlgreen Rd,,Raleigh,NC,27615-4069,,,Real Estate,Quail Properties Inc,,Individual Contribution,01,Check,,150.0000,150.0000
+09/05/2023,,Richard B. Bates,1043 Bolling Rd,,Charlotte,NC,28207-2205,,,Chairman & CEO,Keenly Health,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+12/05/2023,,Kathleen Marmaduke Beddow,19 Edinburgh Ln,,Pinehurst,NC,28374-6714,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,1750.0000,1750.0000
+11/27/2023,,Thomas Beddow,19 Edinburgh Ln,,Pinehurst,NC,28374-6714,,,No Job Title,Not Employed,,Individual Contribution,01,In Kind,FR EVENT FOOD/BEV,3115.3900,4865.3900
+12/05/2023,,Thomas Beddow,19 Edinburgh Ln,,Pinehurst,NC,28374-6714,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,1750.0000,4865.3900
+11/27/2023,,Myong H Bibey,528 Branch Rd,,Carthage,NC,28327,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,250.0000,250.0000
+11/27/2023,,Stephen Bibey,528 Branch Rd,,Carthage,NC,28327,,,Legal,NC State,,Individual Contribution,01,Check,,250.0000,250.0000
+11/28/2023,,Murchison Bolton Biggs,PO Box 967,,Lumberton,NC,28359-0967,,,Accountant,V M Biggs Inc,,Individual Contribution,01,Check,,500.0000,500.0000
+11/07/2023,,Jane Bilello,218 Vincent Pl,,Hendersonville,NC,28739-9339,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,200.0000,200.0000
+11/20/2023,,Melissa McMillan Billingsley,364 Buck Wall Rd,,Rockingham,NC,28379-8710,,,Comptroller,Electronics Service Company,,Individual Contribution,01,Check,,1500.0000,1500.0000
+11/20/2023,,Murray Van Billingsley,364 Buck Wall Rd,,Rockingham,NC,28379-8710,,,Owner,Electronics Service Company,,Individual Contribution,01,Check,,1500.0000,1500.0000
+08/15/2023,,Jo J Bishop,1531 Millbridge Pkwy,,Waxhaw,NC,28173-4507,,,Homemaker,No Employer,,Individual Contribution,01,In Kind,CMPN TEAM LUNCH MTG,131.5200,6400.0000
+09/22/2023,,Mary Margaret Bishop,6528 Riesman Ln,,Charlotte,NC,28210-4394,,,Homemaker,No Employer,,Individual Contribution,01,Check,,1000.0000,1000.0000
+10/02/2023,,William Blackmon,2500 Inverness Rd,,Charlotte,NC,28209-3428,,,President,Carolina Products Inc,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+10/05/2023,,Alan Blair,2230 Carmichael Dr,,Vienna,VA,22181-3222,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,25.0000,100.0000
+11/05/2023,,Alan Blair,2230 Carmichael Dr,,Vienna,VA,22181-3222,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,25.0000,100.0000
+09/01/2023,,William Blank,7422 Lee Rea Rd,,Charlotte,NC,28226-7671,,,Builder,Vannoy Construction,,Individual Contribution,01,Credit Card,,3200.0000,3200.0000
+09/12/2023,,Lydia Boesch,35 McMichael Dr,,Pinehurst,NC,28374-6702,,,Attorney,Not Employed,,Individual Contribution,01,Check,,1000.0000,4000.0000
+11/03/2023,,Lydia Boesch,35 McMichael Dr,,Pinehurst,NC,28374-6702,,,Attorney,Not Employed,,Individual Contribution,01,Credit Card,,3000.0000,4000.0000
+11/12/2023,,Leigh Bortins,255 Grant St,,West End,NC,27376-8377,,,Owner,Classical Conversations,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+11/28/2023,,Wayne Boyles III,360 Sugar Pine Dr,,Pinehurst,NC,28374-9308,,,Consultant,Wayne Boyles,,Individual Contribution,01,Check,,250.0000,250.0000
+12/18/2023,,Johnny H Boyles,1941 Culpepper Ln,,Fayetteville,NC,28304-0495,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,100.0000,100.0000
+09/21/2023,,Kirk Bradley,PO Box 9,,Sanford,NC,27331-0009,,,Executive,Lee-Moore Capital Company,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+11/25/2023,,William Thomas Brady,PO Box 1466,,Carthage,NC,28327-1466,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,1500.0000,1500.0000
+10/30/2023,,John Branch III,4104 John S Raboteau Wynd,,Raleigh,NC,27612-5331,,,Lawyer,Nelson Mullins,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+12/28/2023,,Jennifer A Breitenbach,1130 Evangeline Dr,,Leland,NC,28451-6420,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,100.0000,100.0000
+10/10/2023,,William Joel Brewer III,1028 Kite Ct,,Matthews,NC,28104-7225,,,Gas/Lube distributer,Brewer-Hendley Oil Company,,Individual Contribution,01,Check,,500.0000,500.0000
+09/06/2023,,Brennan Tyler Brooks,660 Brown Trail,,Asheboro,NC,27205-7720,,,Attorney,Thomas More Society/Law office of B. Tyler Brooks PLLC,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+09/19/2023,,Kenneth Charles Brown,6015 Kate Rd,,Monroe,NC,28110-9400,,,Owner/Founder,Precision Plumbing,,Individual Contribution,01,Credit Card,,500.0000,5500.0000
+09/21/2023,,Michele Brown,121 Seaside Ln,,Wrightsville Beach,NC,28480-1740,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,125.0000,125.0000
+10/23/2023,,Ed Broyhill,525 N Hawthorne Rd,,Winston Salem,NC,27104-3224,,,CEO,Anvil Venture,,Individual Contribution,01,Check,,6400.0000,6400.0000
+10/23/2023,,Melanie Pennell Broyhill,525 N Hawthorne Rd,,Winston Salem,NC,27104-3224,,,Homemaker,No Employer,,Individual Contribution,01,Check,,6400.0000,6400.0000
+11/28/2023,,Pauline Bruno,135 Juniper Creek Blvd,,Pinehurst,NC,28374-6993,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,250.0000,250.0000
+09/19/2023,,Kathryn Bunker,1140 Dilworth Crescent Row,,Charlotte,NC,28203-4863,,,Real Estate,Kathyrn Bunker,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+11/28/2023,,Kathryn Bunker,1140 Dilworth Crescent Row,,Charlotte,NC,28203-4863,,,Real Estate,Kathyrn Bunker,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+11/01/2023,,Max Burden,8221 Allyns Landing Way,Apt 301,Raleigh,NC,27615-3087,,,Cofounder & CEO,Clean E,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+12/30/2023,,Dorothy Callaway,1487 Stepp Mill Rd,,Hendersonville,NC,28792-0493,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+09/22/2023,,Allison Callicott,2616 Beverwyck Road,,Charlotte,NC,28211-3306,,,Investor,Allison Callicott,,Individual Contribution,01,Check,,6400.0000,6400.0000
+11/24/2023,,Frances Gilliam Campbell,118 Brookfield Dr,,Pinehurst,NC,28374-8782,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,250.0000,250.0000
+09/21/2023,,John Pickens Derham Cato,8100 Denmark Rd,,Charlotte,NC,28273-5979,,,Businessman,Cato Corporateion,,Individual Contribution,01,Credit Card,,1600.0000,1600.0000
+11/08/2023,,Chi Chan,624 Halcyon Meadow Dr,,Cary,NC,27519-7702,,,Realtor,Cary Raleigh Realty,,Individual Contribution,01,Check,,2000.0000,2000.0000
+11/06/2023,,Mark Christensen,887 Winds Wy,,Aberdeen,NC,28315-8805,,,Chief Of Staff,Veterans Guardian VA Claims Consulting,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+11/28/2023,,H Willy Chu,120 Harvest Ln,,Whispering Pines,NC,28327-8902,,,General Surgeon,Pinehurst Surgical,,Individual Contribution,01,Check,,3000.0000,3000.0000
+11/27/2023,,Franklin S. Clark III,505 Forsythe St,,Fayetteville,NC,28304-3769,,,President,Village Green Related Companies,,Individual Contribution,01,Check,,6400.0000,6400.0000
+11/06/2023,,Julianne Clodfelter,5413 Dowd Road,,West End,NC,27376-8200,,,Construction,Rhetson Companies,,Individual Contribution,01,Credit Card,,3000.0000,3000.0000
+09/07/2023,,James Cogdell,6023 Tindall Park Dr,Apt 209,Charlotte,NC,28210-6944,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,6000.0000,6000.0000
+12/18/2023,,COMMITTEE TO ELECT JAKE JOHNSON,PO Box 681,,Columbus,NC,28722-0681,,,,,,Other Political Committee Contribution,01,Check,,1000.0000,1000.0000
+11/16/2023,,Andra Cook,1413 Loniker Dr,,Raleigh,NC,27615-2231,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,1500.0000,1500.0000
+11/16/2023,,William E Cook,1413 Loniker Dr,,Raleigh,NC,27615-2231,,,Bus. Consultant & Investor,"Riptide Holding, Inc",,Individual Contribution,01,Check,,1500.0000,1500.0000
+11/08/2023,,Kim Cooley,2419 Beechridge Rd,,Raleigh,NC,27608-1431,,,Dir Of Operations,Navitas Wealth Advisors,,Individual Contribution,01,Check,,250.0000,250.0000
+11/17/2023,,Josephine Smith Cooper,121 Saint Mellions,,Pinehurst,NC,28374-8104,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,750.0000,750.0000
+12/28/2023,,Carolyn L Coward,11 Linkside Ct,,Arden,NC,28704-9159,,,Attorney,Van Winkle Law Firm,,Individual Contribution,01,Check,,1000.0000,1000.0000
+11/28/2023,,Charles M Crabtree,90 Brookhaven Rd,,Pinehurst,NC,28374-7085,,,Managing Partner,Cmc Sales & Marketing,,Individual Contribution,01,Check,,1500.0000,1500.0000
+12/05/2023,,James Walker Crawford III,7816 Hasentree Lake Dr,,Wake Forest,NC,27587-1731,,,CEO,"Home Credit Corp, In",,Individual Contribution,01,Check,,500.0000,500.0000
+11/22/2023,,Laura Creed,PO Box 1055,,Southern Pines,NC,28388-1055,,,Attorney,Laura Creed,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+08/16/2023,,Kelly Crumpler,PO Box 1113,,Wallace,NC,28466-1113,,,Owner,Pure Country Farms,,Individual Contribution,01,Check,,1000.0000,1000.0000
+09/08/2023,,Ned Curran,10800 Archibald Ct,,Charlotte,NC,28277-2702,,,President,Stone Cottage Advisors,,Individual Contribution,01,Credit Card,,3200.0000,3200.0000
+09/14/2023,,Marc A Darst MD,8807 Rosslare Villas Ct,,Charlotte,NC,28226-2681,,,Dermatologist,Darst Dermatology,,Individual Contribution,01,Credit Card,,500.0000,600.0000
+11/07/2023,,Richard Daugherty,4030 Cardinal at North Hills St,213,Raleigh,NC,27609-2616,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+10/18/2023,,Jack Davis,3320 Bellewood Forest Cir,,Raleigh,NC,27612-4366,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,6400.0000,6400.0000
+08/30/2023,,Richard Neal Dawson,4600 Park Rd,Ste 104,Charlotte,NC,28209-0031,,,CPA,Richard Dawson,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+11/28/2023,,Sherilyn Degenhardt,9105 Clerkenwell Dr,,Waxhaw,NC,28173-6786,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,500.0000,0.0000
+11/01/2023,,Jay Delancy,296 Fairway Ln,,Sanford,NC,27332-8392,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,25.0000,100.0000
+12/01/2023,,Jay Delancy,296 Fairway Ln,,Sanford,NC,27332-8392,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,25.0000,100.0000
+11/28/2023,,Lawrence L Demastus,526 Gabriel Ln,,Aberdeen,NC,28315-3114,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,1000.0000,1000.0000
+12/31/2023,,Gilbert Dickey,4921 Sentinel Post Rd,,Charlotte,NC,28226-7444,,,Lawyer,"Consovoy Mccarthy, PLLC",,Individual Contribution,01,Credit Card,,500.0000,500.0000
+11/07/2023,,Charles Douthit,1200 Trillium Cir,,Raleigh,NC,27606-3446,,,Apt Owner/Mgr,Charles Douthit,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+08/23/2023,,Roddey Dowd III,2229 Malvern Rd,,Charlotte,NC,28207-2625,,,Executive,Charlotte Pipe & Foundry,,Individual Contribution,01,Check,,1000.0000,1000.0000
+08/23/2023,,W. Frank Dowd IV,1219 Scotland Ave,,Charlotte,NC,28207-2570,,,Chairman,Charlotte Pipe & Foundry,,Individual Contribution,01,Check,,2500.0000,2500.0000
+11/06/2023,,Thomas Drake,PO Box 6327,,Raleigh,NC,27628-6327,,,Real Estate,Thomas Drake,,Individual Contribution,01,Check,,1000.0000,1000.0000
+11/14/2023,,Kevin W Drum,41 Shaw Rd SW,,Pinehurst,NC,28374-9195,,,Entrepreneur,Kevin Drum,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+09/19/2023,,McKinley Dull,5 Asheville St W,,Wrightsville Beach,NC,28480-1889,,,Owner/Pres,McKinley Building Corp,,Individual Contribution,01,Credit Card,,800.0000,1600.0000
+09/27/2023,,McKinley Dull,5 Asheville St W,,Wrightsville Beach,NC,28480-1889,,,Owner/Pres,McKinley Building Corp,,Individual Contribution,01,Credit Card,,800.0000,1600.0000
+11/20/2023,,Stephen A Earwood,PO Box 70,,Marston,NC,28363-0070,,,Business Owner,Rockingham Dragway,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+10/27/2023,,William Edwards,8601 Cypress Lakes Dr,Unit 204,Raleigh,NC,27615-2125,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+12/18/2023,,Chet Effler,24 Willoughby Way,,Marion,NC,28752-3093,,,Lead Investigator,Nc Insurance Commission,,Individual Contribution,01,Check,,100.0000,100.0000
+09/22/2023,,Curtis Elliott,2320 Selwyn Ave,,Charlotte,NC,28207-2714,,,Lawyer,Culp Elliott and Carpenter,,Individual Contribution,01,Check,,500.0000,500.0000
+11/08/2023,,Luke Farley,219 W Drewry Ln,,Raleigh,NC,27609-7715,,,Attorney,Ellis & Winters,,Individual Contribution,01,Check,,200.0000,200.0000
+12/21/2023,,Thomas Farr,146 Lochwood West Dr,,Cary,NC,27518-8301,,,Attorney,Nelson Mullins,,Individual Contribution,01,Credit Card,,1000.0000,2000.0000
+11/27/2023,,Amy Fergione,14918 Resolves Ln,,Charlotte,NC,28277-3723,,,Property mgt,Amy Fergione,,Individual Contribution,01,Credit Card,,500.0000,0.0000
+10/03/2023,,Russ Ferguson,400 N Church St,#222,Charlotte,NC,28202-2242,,,Partner,Womble Bond Dickinson US,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+11/08/2023,,Paul C Fitts,6720 Pointe Vista Cir,,Raleigh,NC,27615-7336,,,Mortgage Broker,Academy Mortgage,,Individual Contribution,01,Check,,250.0000,250.0000
+11/08/2023,,Dan Forest,1765 Iron Mill Dr,,Wendell,NC,27591-9815,,,Consultant,FCG,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+12/28/2023,,Richard Fowler,10526 Old Wayside Rd,,Charlotte,NC,28277-1413,,,CEO,Seacrest Services,,Individual Contribution,01,Check,,5000.0000,5000.0000
+09/05/2023,,Woody H Fox,7925 Kieldon Court,,Charlotte,NC,28277-2572,,,Restaurant Owner,"Woodlo, Inc",,Individual Contribution,01,Credit Card,,500.0000,500.0000
+12/04/2023,,John Fraley,1311 Fern Hill Rd,,Mooresville,NC,28117-9426,,,Legislator,NC General Assembly,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+09/22/2023,,Freedom First PAC,PO Box 97465,,Raleigh,NC,27624-7465,,,,,,Other Political Committee Contribution,01,Check,,6400.0000,6400.0000
+12/18/2023,,Charles F Fuller,2900 Montpelier Ct,,Raleigh,NC,27609-7674,,,President,The Results Company,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+11/06/2023,,Thomas G Gibson III,PO Box 165,,Gibson,NC,28343-0165,,,Farmer,TG Gibson Farms,,Individual Contribution,01,Check,,5000.0000,5000.0000
+11/06/2023,,Thomas C Gibson,315 Barker Ten Mile Rd,,Lumberton,NC,28358-5886,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,1000.0000,1000.0000
+08/29/2023,,William Walter Gillespie Jr.,PO Box 550442,,Gastonia,NC,28055-0442,,,Real Estate,Gillespie Properties,,Individual Contribution,01,Check,,1000.0000,3000.0000
+11/30/2023,,William Walter Gillespie Jr.,PO Box 550442,,Gastonia,NC,28055-0442,,,Real Estate,Gillespie Properties,,Individual Contribution,01,Credit Card,,2000.0000,3000.0000
+09/09/2023,,Gregg Goldenberg,1722 Country Club Rd,,Wilmington,NC,28403-4823,,,Real Estate Executive,Ardent,,Individual Contribution,01,Credit Card,,3000.0000,3000.0000
+12/12/2023,,Christine Gordon,1197 Crabtree Crossing Pkwy,,Morrisville,NC,27560-7559,,,Homemaker,No Employer,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+12/14/2023,,David H Griffin Jr,5395 River Rd,,Jamestown,NC,27282-8906,,,President,"D.H. Griffin Wrecking Company, Inc.",,Individual Contribution,01,Credit Card,,2500.0000,2500.0000
+08/14/2023,,Tony Griffin,PO Box 23027,,Charlotte,NC,28227-0272,,,Owner,"Griffin Masonry, Inc.",,Individual Contribution,01,Credit Card,,6400.0000,6400.0000
+09/26/2023,,Cheryl Hadley,1401 Dilworth Rd,,Charlotte,NC,28203-4820,,,Pilot,United Airlines,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+09/12/2023,,Joseph Adam Hagner,4023 Columbine Cir,,Charlotte,NC,28211-4421,,,Director of Operations,Zenith Building Grop,,Individual Contribution,01,Credit Card,,3200.0000,3200.0000
+08/16/2023,,Wesley Hairr,217 River Ridge Dr,,Wallace,NC,28466-2353,,,Recruiter,Murphy Family Ventures,,Individual Contribution,01,Check,,1000.0000,1000.0000
+10/05/2023,,James Hall,1114 Belgrave Pl,,Charlotte,NC,28203-5243,,,Physician,James Hall,,Individual Contribution,01,Credit Card,,250.0000,350.0000
+11/08/2023,,Sarah Harden,326 Forsyth St,,Raleigh,NC,27609-6314,,,Homemaker,No Employer,,Individual Contribution,01,Check,,200.0000,200.0000
+08/23/2023,,E. Hooper Hardison Jr.,2065 Queens Rd E,,Charlotte,NC,28207-2727,,,President,Charlotte Pipe & Foundry,,Individual Contribution,01,Check,,2000.0000,2000.0000
+11/20/2023,,Beverly H Harper,247 National Dr,,Pinehurst,NC,28374-8164,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,250.0000,250.0000
+11/20/2023,,David L Harper,247 National Dr,,Pinehurst,NC,28374-8164,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,250.0000,250.0000
+12/11/2023,,Robert Dean Harrell,2400 Beulah Church Rd,,Matthews,NC,28104-7915,,,Real Estate Developer,RD Harrell Company,,Individual Contribution,01,Check,,5000.0000,5000.0000
+12/31/2023,,Monica V. Harris,5409 Carmel Park Dr,,Charlotte,NC,28226-5142,,,Homemaker,No Employer,,Individual Contribution,01,Credit Card,,2500.0000,2500.0000
+09/30/2023,,Christy Haynes,1416 Huntcliff Drive,,Waxhaw,NC,28173-0031,,,Office Manager,Barchip USA,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+10/03/2023,,Philip M Henderson,3330 Leamington Ln,,Charlotte,NC,28226-6657,,,President,Henderson Properties,,Individual Contribution,01,Check,,500.0000,500.0000
+09/19/2023,,John Hendley,2614 Rolling Hills Dr,,Monroe,NC,28110-8408,,,Executive,Brewer-Hendley Oil Company,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+09/27/2023,,Carole Herrin,PO Box 5291,,Charlotte,NC,28299-5291,,,Herrin Brothers Ice,Co-Owner,,Individual Contribution,01,Credit Card,,1600.0000,1600.0000
+09/24/2023,,John Hettwer,7316 Swansea Ln,,Cornelius,NC,28031-8696,,,Business Owner,Payroll Plus HCM,,Individual Contribution,01,Check,,100.0000,100.0000
+08/17/2023,,Elaine Hewitt,306 3rd Creek Church Rd,,Cleveland,NC,27013-8247,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+11/27/2023,,Jay G Hodgkin,120 Wiregrass Ln,,Southern Pines,NC,28387-3056,,,Medical Device Sales,ECM Partners,,Individual Contribution,01,Credit Card,,6400.0000,6400.0000
+11/29/2023,,Kelly Howard,125 Chesterwood Ct,,Mooresville,NC,28117-6720,,,CEO,Iomax USA,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+09/28/2023,,Susan Howcroft,719 Autumn Crest Pl,,Wilmington,NC,28405-5244,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,125.0000,125.0000
+11/06/2023,,Harry Lee Howell Jr.,PO Box 1151,,Laurinburg,NC,28353-1151,,,President,Scotland Motors,,Individual Contribution,01,Check,,5000.0000,5000.0000
+12/11/2023,,HUGH BLACKWELL FOR NC HOUSE,321 Mountain View Ave SE,,Valdese,NC,28690-3320,,,,,,Other Political Committee Contribution,01,Check,,1000.0000,1000.0000
+11/20/2023,,James R. Hughes,PO Box 38026,,Charlotte,NC,28278-1000,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,1000.0000,1000.0000
+10/19/2023,,Jesse Hughes,651 Dixon School Rd,# 1,Kings Mountain,NC,28086-9276,,,Student,N/A,,Individual Contribution,01,Credit Card,,25.0000,100.0000
+10/26/2023,,Jesse Hughes,651 Dixon School Rd,# 1,Kings Mountain,NC,28086-9276,,,Student,N/A,,Individual Contribution,01,Credit Card,,10.0000,100.0000
+11/16/2023,,Jesse Hughes,651 Dixon School Rd,# 1,Kings Mountain,NC,28086-9276,,,Student,N/A,,Individual Contribution,01,Credit Card,,10.0000,100.0000
+11/26/2023,,Jesse Hughes,651 Dixon School Rd,# 1,Kings Mountain,NC,28086-9276,,,Student,N/A,,Individual Contribution,01,Credit Card,,10.0000,100.0000
+12/26/2023,,Jesse Hughes,651 Dixon School Rd,# 1,Kings Mountain,NC,28086-9276,,,Student,N/A,,Individual Contribution,01,Credit Card,,10.0000,100.0000
+08/23/2023,,William R Hutaff III,12010 Delmahoy Dr,,Charlotte,NC,28277-9635,,,Executive,Charlotte Pipe,,Individual Contribution,01,Check,,1000.0000,1000.0000
+10/12/2023,,Dewey V. Jenkins,9101 Monarchos Ct,,Marvin,NC,28173-6670,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,6400.0000,6400.0000
+09/05/2023,,Jim Johnson,1522 Thumping Creek Rd,,Hayesville,NC,28904-5635,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,27.0000,243.0000
+09/27/2023,,Jim Johnson,1522 Thumping Creek Rd,,Hayesville,NC,28904-5635,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,27.0000,243.0000
+10/05/2023,,Jim Johnson,1522 Thumping Creek Rd,,Hayesville,NC,28904-5635,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,27.0000,243.0000
+10/13/2023,,Jim Johnson,1522 Thumping Creek Rd,,Hayesville,NC,28904-5635,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,27.0000,243.0000
+11/05/2023,,Jim Johnson,1522 Thumping Creek Rd,,Hayesville,NC,28904-5635,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,27.0000,243.0000
+11/13/2023,,Jim Johnson,1522 Thumping Creek Rd,,Hayesville,NC,28904-5635,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,27.0000,243.0000
+12/05/2023,,Jim Johnson,1522 Thumping Creek Rd,,Hayesville,NC,28904-5635,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,27.0000,243.0000
+12/13/2023,,Jim Johnson,1522 Thumping Creek Rd,,Hayesville,NC,28904-5635,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,27.0000,243.0000
+12/27/2023,,W Dirk Johnston,1925 Trillium Ln,,Charlotte,NC,28211-4444,,,Real Estate Developer,W Dirk Johnston,,Individual Contribution,01,Credit Card,,1500.0000,1500.0000
+08/14/2023,,Donnie B. Jordan,1301 E Franklin St,,Monroe,NC,28112-5126,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+11/17/2023,,Thomas Kakadelis,420 Midland Dr,,Pinehurst,NC,28374-8247,,,Minister,Thomas Kakadelis,,Individual Contribution,01,Credit Card,,250.0000,350.0000
+12/15/2023,,James L Keffer,6900 Shinnecock Hill Ln,,Charlotte,NC,28277-0358,,,Auto Dealer,Keffer Auto Group,,Individual Contribution,01,Credit Card,,6400.0000,6400.0000
+11/08/2023,,Joe T Knott III,1620 Oberlin Rd,,Raleigh,NC,27608-2040,,,Attorney,Knott & Boyle PLLC,,Individual Contribution,01,Check,,500.0000,500.0000
+09/23/2023,,Patrick Koballa,5 Bahama Dr,,Wrightsville Beach,NC,28480-5000,,,Owner - Auto Dealer,Coastal Kia,,Individual Contribution,01,Credit Card,,1600.0000,1600.0000
+09/22/2023,,Michael Kucera,6308 Gold Wagon Ln,,Mint Hill,NC,28227-8249,,,Not employed,Not Employed,,Individual Contribution,01,Check,,64.0000,64.0000
+09/18/2023,,Joseph Lamotte,383 Echo Hill Ln,,Salisbury,NC,28146-9435,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+09/22/2023,,Richard Langdon,5129 Carmel Club Dr,,Charlotte,NC,28226-8023,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,200.0000,200.0000
+11/06/2023,,Stephen Later,P.O. Box 2150,,Southern Pines,NC,28388-2150,,,Lawyer,Robbins May & Rich LLP,,Individual Contribution,01,Check,,5000.0000,5000.0000
+10/24/2023,,Haynes Lea,2816 Belvedere Ave,,Charlotte,NC,28205-3706,,,Attorney,Robinson Bradshaw,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+10/03/2023,,Robert LeBlanc,3915 Members Club Blvd,,Southport,NC,28461-8462,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,3200.0000,3200.0000
+12/05/2023,,Barry D Leonard,1575 Rockcrusher Rd,,Lexington,NC,27292-1706,,,CPA,Barry D Leonard,,Individual Contribution,01,Check,,300.0000,300.0000
+09/27/2023,,David Lindberg,1433 Riesling Way,,Amarillo,TX,79124-1043,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+09/24/2023,,Maria Little,2909 Rockbrook Dr,,Charlotte,NC,28211-2641,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,500.0000,500.0000
+11/28/2023,,Wanda M Little,111 National Dr,,Pinehurst,NC,28374-8166,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,500.0000,500.0000
+08/29/2023,,Julius R Locklear,400 W North St,Apt 616,Raleigh,NC,27603-1563,,,Business Owner,Locklear Vending,,Individual Contribution,01,Check,,500.0000,500.0000
+11/10/2023,,Christopher Loutit,1709 Knox Road,,Raleigh,NC,27608-1150,,,Attorney,The Loutit Law Firm,,Individual Contribution,01,Credit Card,,2000.0000,4000.0000
+12/10/2023,,Christopher Loutit,1709 Knox Road,,Raleigh,NC,27608-1150,,,Attorney,The Loutit Law Firm,,Individual Contribution,01,Credit Card,,2000.0000,4000.0000
+12/18/2023,,Debra Lovley,220 NE 43rd St,,Oak Island,NC,28465-5455,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+12/18/2023,,David Luck,1335 Cane Creek Rd,,Fletcher,NC,28732-7420,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,6400.0000,6400.0000
+12/18/2023,,Terri Luck,1335 Cane Creek Rd,,Fletcher,NC,28732-7420,,,Homemaker,No Employer,,Individual Contribution,01,Check,,6400.0000,6400.0000
+09/09/2023,,Roger Ludlow,882 Cascade Dr,,Sunnyvale,CA,94087-3141,,,Building Inspector,Roger Ludlow,,Individual Contribution,01,Credit Card,,100.0000,400.0000
+10/09/2023,,Roger Ludlow,882 Cascade Dr,,Sunnyvale,CA,94087-3141,,,Building Inspector,Roger Ludlow,,Individual Contribution,01,Credit Card,,100.0000,400.0000
+11/09/2023,,Roger Ludlow,882 Cascade Dr,,Sunnyvale,CA,94087-3141,,,Building Inspector,Roger Ludlow,,Individual Contribution,01,Credit Card,,100.0000,400.0000
+08/14/2023,,Robert Lyerly,9507 Tallwood Dr,,Indian Trail,NC,28079-6530,,,Attorney,Maynard Nexsen,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+09/24/2023,,Philip Mahoney,635 Llewellyn Pl,,Charlotte,NC,28207-2327,,,Mortgage Banker,American Security Mortgage,,Individual Contribution,01,Check,,1000.0000,1000.0000
+09/05/2023,,Edward E Manns,7015 White Store Rd,,Marshville,NC,28103-9786,,,Restaurant franchisee,Golden Corral,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+11/28/2023,,Jean McGinn,1116 Queens Rd,,Charlotte,NC,28207-1850,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+08/14/2023,,Thomas M McInnis,PO Box 3776,,Pinehurst,NC,28374-3776,,,Senator,State of NC,,Individual Contribution,01,Credit Card,,3000.0000,3000.0000
+11/06/2023,,William D McInnis,225 McDonald Ch Rd,,Rockingham,NC,28379-8517,,,President,Richmond County Community College,,Individual Contribution,01,Check,,500.0000,500.0000
+11/27/2023,,Brian McMurray,25 Cypress Point Dr,,Pinehurst,NC,28374-7133,,,Executive,Atex Technologies,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+11/22/2023,,Iris R. McRae,105 Jasper Forrest Dr,,Rockingham,NC,28379-7711,,,Daycare,Iris R Mcrae,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+10/02/2023,,Sharon Meredith,8716 Thornbury Pl,,Waxhaw,NC,28173-7157,,,Homemaker,No Employer,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+09/07/2023,,Wesley Meredith,PO BOX 26210,,Fayetteville,NC,28314-5020,,,Landscape Contractor,Cardinal Landscaping,,Individual Contribution,01,Check,,6400.0000,6400.0000
+08/30/2023,,Dreama Miller,6412 Clubside Dr,,Whitsett,NC,27377-9227,,,Business Manager,General Dynamics,,Individual Contribution,01,Credit Card,,300.0000,300.0000
+10/26/2023,,Leonard Jeffrey Minch,1520 Mockingbird Ln,#445,Charlotte,NC,28209-6221,,,Consultant,Jeff Minch,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+11/28/2023,,Cleta D Mitchell,139 National Dr,,Pinehurst,NC,28374-8166,,,Attorney,Cleta D Mitchell,,Individual Contribution,01,Check,,1500.0000,1500.0000
+10/06/2023,,Justin Moore,9118 Park Grove St,,Huntersville,NC,28078-5517,,,Attorney,Turnbull Law Group SC,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+09/21/2023,,Lawrence Moore,2105 E 8th St,,Charlotte,NC,28204-2705,,,Lawyer,Robinson Bradshaw,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+10/29/2023,,Michael Morgan,12433 Bayleaf Church Rd,,Raleigh,NC,27614-9168,,,Real Estate,JLL,,Individual Contribution,01,Credit Card,,6400.0000,6400.0000
+12/18/2023,,Fred Spencer Morse,573 Valeria Ln,,Pisgah Forest,NC,28768-9955,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,200.0000,200.0000
+08/16/2023,,Harry D Murphy,PO Box 160,,Wallace,NC,28466-0160,,,Vice-Chairman,Murphy Family Ventures,,Individual Contribution,01,Check,,1000.0000,1000.0000
+08/16/2023,,Wendell Murphy Jr.,140 River Birch Ln,,Wallace,NC,28466-2554,,,CEO,Murphy Family Ventures,,Individual Contribution,01,Check,,1000.0000,1000.0000
+08/16/2023,,Wendell H Murphy,PO Box 1113,,Wallace,NC,28466-1113,,,Owner,Murphy Family Ventures,,Individual Contribution,01,Check,,1000.0000,1000.0000
+10/10/2023,,Jill Murray,3 Bryan Ct,,Greensboro,NC,27408-3137,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+11/07/2023,,Gabor Nemeth,56 Cottonwood Cir,,Rolling Hills Estates,CA,90274-3413,,,Coach,Pvpusd,,Individual Contribution,01,Credit Card,,15.0000,75.0000
+12/04/2023,,Gabor Nemeth,56 Cottonwood Cir,,Rolling Hills Estates,CA,90274-3413,,,Coach,Pvpusd,,Individual Contribution,01,Credit Card,,15.0000,75.0000
+11/26/2023,,Macon Newby,6108 Chowning Ct,,Raleigh,NC,27612-6703,,,Homemaker,No Employer,,Individual Contribution,01,Check,,5000.0000,5000.0000
+12/12/2023,,Charles Newman,165 Newman Ln,,Iron Station,NC,28080-9261,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,25.0000,75.0000
+11/06/2023,,Charles Dean Nichols Jr.,508 Montrose Ln,,Laurinburg,NC,28352-5516,,,Owner,Nik's Kwik Pics Convenience Store,,Individual Contribution,01,Check,,5000.0000,5000.0000
+12/18/2023,,Delphine Noland,6 Estatoe Gap Rd,,Candler,NC,28715-0229,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,200.0000,200.0000
+11/16/2023,,NORFOLK SOUTHERN CORP GOOD GOVERNMENT FUND,1 Constitution Ave NE,# 300,Washington,DC,20002-5618,,,,,,Other Political Committee Contribution,01,Check,,1000.0000,1000.0000
+11/08/2023,,Deborah Jean Nunn,1100 Kelly Rd,,Apex,NC,27523-9566,,,Owner/Operator,"Peak Resources, Inc",,Individual Contribution,01,Check,,1500.0000,1500.0000
+12/17/2023,,Kenneth M. O'Connell,6037 Sharon Rd,,Charlotte,NC,28210-6827,,,Accountant,Kenneth O'Connell,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+11/22/2023,,James O'Malley,121 National Dr,,Pinehurst,NC,28374-8166,,,Real Estate Development,James O'Malley,,Individual Contribution,01,Credit Card,,6400.0000,6400.0000
+11/22/2023,,Stephanie O'Malley,121 National Dr,,Pinehurst,NC,28374-8166,,,Flight Attendant,Delta,,Individual Contribution,01,Credit Card,,6400.0000,6400.0000
+10/05/2023,,Wanda Ohm,5416 Dutchman Dr,,Raleigh,NC,27606-9794,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+08/16/2023,,Michaelon Olson,PO Box 5100,,Marco Island,FL,34145-5474,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,1000.0000,1000.0000
+09/22/2023,,Michael Ortlip,2616 Beverwyck Road,,Charlotte,NC,28211-3306,,,Financier,New Point,,Individual Contribution,01,Check,,6400.0000,6400.0000
+10/03/2023,,Ronald J. Parker,1601 Stack Rd,,Monroe,NC,28112-9487,,,Turkey Production,Circle S Ranch,,Individual Contribution,01,Check,,150.0000,150.0000
+11/13/2023,,Kathie Parson,180 Everette Rd,,Pinehurst,NC,28374-9114,,,Business Dev,FirstHealth,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+11/13/2023,,Mark Wesley Parson,180 Everette Road,,Pinehurst,NC,28374-9114,,,Designer,"Mark Wesley Parson, Inc.",,Individual Contribution,01,Credit Card,,250.0000,250.0000
+09/22/2023,,John Franklin Parsons,PO Box 618,,Ellerbe,NC,28338-0618,,,Area Manager,Edwards Wood Products,,Individual Contribution,01,Check,,500.0000,500.0000
+10/03/2023,,Thomas D. Pearson,4301 Fairview Oak Ln,,Charlotte,NC,28211-4922,,,President,Pearson Land Corporation,,Individual Contribution,01,Check,,250.0000,250.0000
+08/29/2023,,Gary Pendleton,2908 Lake Boone Pl,,Raleigh,NC,27608-1151,,,President,Pendleton Financial Services Inc,,Individual Contribution,01,Check,,1400.0000,4400.0000
+11/08/2023,,Gary Pendleton,2908 Lake Boone Pl,,Raleigh,NC,27608-1151,,,President,Pendleton Financial Services Inc,,Individual Contribution,01,Check,,2000.0000,4400.0000
+12/26/2023,,Gary Pendleton,2908 Lake Boone Pl,,Raleigh,NC,27608-1151,,,President,Pendleton Financial Services Inc,,Individual Contribution,01,Check,,1000.0000,4400.0000
+11/02/2023,,Barry Perry,PO Box 10,,Wendell,NC,27591-0010,,,Sales,Perry'S Gun Shop,,Individual Contribution,01,Credit Card,,1500.0000,1500.0000
+09/27/2023,,Matthew Petracca,4017 Red Trillium Ct,,Wake Forest,NC,27587-8145,,,Attorney,NCDOJ,,Individual Contribution,01,Credit Card,,250.0000,275.0000
+09/22/2023,,Amy Philipp,1300 Reece Rd,Apt 206,Charlotte,NC,28209-2160,,,Writer,Charlotte Institute for Faith and Work,,Individual Contribution,01,Check,,250.0000,750.0000
+09/22/2023,,Amy Philipp,1300 Reece Rd,Apt 206,Charlotte,NC,28209-2160,,,Writer,Charlotte Institute for Faith and Work,,Individual Contribution,01,Check,,500.0000,750.0000
+08/16/2023,,Howard M. Phillips Jr.,PO Box 471278,,Charlotte,NC,28247-1278,,,No Job Title,"HMP Services, LLC",,Individual Contribution,01,Check,,5400.0000,5400.0000
+10/31/2023,,Donald Glenn Pierce,5300 Ten Ten Rd,,Apex,NC,27539-8346,,,President,Pierce Group Benefit,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+12/19/2023,,Rodney C Pitts,428 E 4th St,Ste 100,Charlotte,NC,28202-2491,,,General Partner,Pitts Family Group,,Individual Contribution,01,Check,,3400.0000,6400.0000
+11/20/2023,,Patrick Pizzella,170 Palmetto Rd,,Pinehurst,NC,28374-9361,,,Council Member,Village of Pinehurst,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+11/06/2023,,Krishana Polite,724 Coker Dr,,Fuquay Varina,NC,27526-2810,,,Deputy Chief Of Staff,Nc Lt Gov Office,,Individual Contribution,01,Credit Card,,250.0000,250.0000
+08/31/2023,,Susan Poole,10327 Oak Pond Cir,,Charlotte,NC,28277-9506,,,RN,Novant Health,,Individual Contribution,01,Credit Card,,300.0000,300.0000
+10/04/2023,,James Jerome Powers III,1322 Churchill Downs Dr,,Waxhaw,NC,28173-6585,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,500.0000,500.0000
+12/05/2023,,Patricia Preslar,4540 Secrest Shortcut Rd,,Monroe,NC,28110-9257,,,Co-Owner,Jb Preslar Company Inc,,Individual Contribution,01,Check,,3400.0000,3400.0000
+12/28/2023,,Michael E Privette,331 Thunder Rd,,Brevard,NC,28712-7740,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,250.0000,250.0000
+08/22/2023,,Agnes M. Puzak,60 Shadow Creek Ct,,Pinehurst,NC,28374-8572,,,Software development,IBM,,Individual Contribution,01,Check,,200.0000,200.0000
+08/22/2023,,Rabon for Senate,521 Cherrytree Rd NE,,Winnabow,NC,28479-5487,,,,,,Other Political Committee Contribution,01,Check,,6400.0000,6400.0000
+09/06/2023,,Randall Ramsey,530 Sensation Weigh,,Beaufort,NC,28516-7672,,,Boat mauf and repair,Safe Harbor Jarrett Bay,,Individual Contribution,01,Credit Card,,1500.0000,2500.0000
+11/28/2023,,Randall Ramsey,530 Sensation Weigh,,Beaufort,NC,28516-7672,,,Boat mauf and repair,Safe Harbor Jarrett Bay,,Individual Contribution,01,Credit Card,,1000.0000,2500.0000
+10/30/2023,,Diane Raper,275 Casedy Dr SE,,Winston Salem,NC,27107-1811,,,Auditor,dcaa,,Individual Contribution,01,Credit Card,,25.0000,125.0000
+11/30/2023,,Diane Raper,275 Casedy Dr SE,,Winston Salem,NC,27107-1811,,,Auditor,dcaa,,Individual Contribution,01,Credit Card,,25.0000,125.0000
+12/30/2023,,Diane Raper,275 Casedy Dr SE,,Winston Salem,NC,27107-1811,,,Auditor,dcaa,,Individual Contribution,01,Credit Card,,25.0000,125.0000
+10/20/2023,,Julian White Rawl,PO Box 8068,,Greenville,NC,27835-8068,,,Owner,Preston Development Company,,Individual Contribution,01,Check,,3000.0000,3000.0000
+09/22/2023,,Andrew Riolo,3224 Leamington Ln,,Charlotte,NC,28226-6656,,,Andrew Riolo Attorney at Law,Attorney,,Individual Contribution,01,Check,,250.0000,250.0000
+11/06/2023,,Eugene Kinsey Ritch Jr,1407 Atkinson St,,Laurinburg,NC,28352-5009,,,Certified Public Accountant,Eugene Kinsey Ritch Jr,,Individual Contribution,01,Check,,5000.0000,5000.0000
+10/27/2023,,Larry Robbins,2913 Lake Boone Pl,,Raleigh,NC,27608-1151,,,Attorney,Wyrick Robbins,,Individual Contribution,01,Credit Card,,1500.0000,1500.0000
+10/31/2023,,Irwin Roberts,2701 Glenwood Ave,,Raleigh,NC,27608-1005,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+08/22/2023,,Harold Knox Roberts Jr,21 Pine Tree Rd,,Salisbury,NC,28144-6911,,,Chairman,Statewide Title Inc,,Individual Contribution,01,Check,,1000.0000,1000.0000
+10/04/2023,,Valerie Roberts,2723 Providence Pine Ln,,Charlotte,NC,28270-3750,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,250.0000,250.0000
+10/03/2023,,Richard L. Robertson,4000 Walney Ct,,Charlotte,NC,28215-5364,,,Robertson & Associates,Attorney,,Individual Contribution,01,Check,,100.0000,100.0000
+11/17/2023,,Neil Robinette,193 National Dr,,Pinehurst,NC,28374-8166,,,Commercial Real Estate,Cf Smith Property Group,,Individual Contribution,01,Credit Card,,1000.0000,1000.0000
+08/23/2023,,George W. Rohe,4101 Black Sycamore Dr,,Charlotte,NC,28226-4311,,,Accountant,George W Rohe,,Individual Contribution,01,Check,,2000.0000,2000.0000
+08/31/2023,,Stephen A. Rosenburgh,14822 Resolves Ln,,Charlotte,NC,28277-3029,,,"Founder, President & CEO","US Developments, LLC",,Individual Contribution,01,Credit Card,,2000.0000,2000.0000
+10/04/2023,,Harold Rosser,4709 Ockley Manor Ln,,Charlotte,NC,28226-5605,,,Investor,Harold Rosser,,Individual Contribution,01,Check,,6400.0000,6400.0000
+09/28/2023,,Don Rudy,719 Autumn Crest Pl,,Wilmington,NC,28405-5244,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,125.0000,125.0000
+09/05/2023,,Atlas James Russell,114 Timber Lake CT,,Mount Gilead,NC,27306-9286,,,Owner,JT Russell & Sons Ashphalt,,Individual Contribution,01,Check,,3300.0000,4800.0000
+12/05/2023,,Atlas James Russell,114 Timber Lake CT,,Mount Gilead,NC,27306-9286,,,Owner,JT Russell & Sons Ashphalt,,Individual Contribution,01,Check,,1500.0000,4800.0000
+12/05/2023,,Janet Russell,114 Timber Lake Ct,,Mount Gilead,NC,27306-9286,,,Real Estate Agent,eXp Realty,,Individual Contribution,01,Check,,1500.0000,1500.0000
+11/22/2023,,Ginger Seger,5011 Blue Stream Ln,,Indian Trail,NC,28079-5761,,,Sales & Marketing Specialist,Beasley Media Group,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+10/18/2023,,James E Shaver,1018 Zephyr Cir,,Monroe,NC,28110-8803,,,Field Director,Bishop For Nc,,Individual Contribution,01,In Kind,STAMPS FOR TY NOTES,132.0000,0.0000
+11/15/2023,,William R. Sherbert,12132 James Jack Ln,,Charlotte,NC,28277-3752,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,3000.0000,3000.0000
+08/16/2023,,Glenn Sherrill,3025 Westport Rd,,Charlotte,NC,28208-3688,,,CEO,SteelFab Inc,,Individual Contribution,01,Check,,6400.0000,6400.0000
+09/22/2023,,Paulette E Sherrill,825 Mt Vernon Av,,Charlotte,NC,28203-4842,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,500.0000,500.0000
+08/16/2023,,Stuart R Sherrill,302 Colville Rd,,Charlotte,NC,28207-1912,,,Vice-Chairman,Steelfab,,Individual Contribution,01,Check,,6400.0000,6400.0000
+12/19/2023,,Johnny Lee Sides,PO Box 1969,,Welcome,NC,27374-1969,,,Owner,Sides Seeding,,Individual Contribution,01,Check,,2000.0000,2000.0000
+08/30/2023,,Pamela Simpson,8016 Fogleman Rd,,Oak Ridge,NC,27310-9734,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+09/23/2023,,Gregg Sinders,108 Hardy Ivy Way,,Holly Springs,NC,27540-0027,,,Education,Charter One,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+10/04/2023,,David Bruton Smith,5020 Carmel Park Dr,,Charlotte,NC,28226-5135,,,"Chief Executive Officer, Director",Sonic Automotive,,Individual Contribution,01,Check,,1000.0000,1000.0000
+12/19/2023,,Eddie C Smith Jr,PO Box 1527,,Greenville,NC,27835-1527,,,Owner/CEO,Grady White Boats,,Individual Contribution,01,Check,,6400.0000,6400.0000
+12/31/2023,,Thomas Julius Smith,1840 Tanglebriar Ct,,Matthews,NC,28104-7859,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+10/04/2023,,Robyn Stacy Humphries,4303 Calvet Ct,,Charlotte,NC,28210-4198,,,Physician,Charlotte radiology,,Individual Contribution,01,Check,,250.0000,250.0000
+08/14/2023,,Ronald Stading,7406 Oakwood Ln,,Charlotte,NC,28215-3624,,,Construction,RCM Construction Services,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+10/04/2023,,Stedman Stevens,7007 Airlie Oaks Ln,,Wilmington,NC,28403-3700,,,Consutling,GALT,,Individual Contribution,01,Credit Card,,400.0000,400.0000
+11/27/2023,,Christopher R Strianese,18426 Peninsula Club Dr,,Cornelius,NC,28031-5108,,,Attorney,Strianese Huckert LLP,,Individual Contribution,01,Check,,300.0000,300.0000
+11/28/2023,,SWARBRICK FOR HOUSE,202 Lally Cir,,Aberdeen,NC,28315-7015,,,,,,Other Political Committee Contribution,01,Check,,250.0000,250.0000
+11/16/2023,,Eslie C Sykes,9660 Falls of Neuse Rd,Ste 138192,Raleigh,NC,27615-2473,,,CEO,Aslan Ventures,,Individual Contribution,01,Check,,1000.0000,1000.0000
+10/11/2023,,Brett Tanner,8020 Bald Eagle Ln,,Wilmington,NC,28411-9303,,,Owner,Pinnacle Trailer Sales Inc.,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+11/27/2023,,Scott W. Taunton,214 N Long Dr,,Rockingham,NC,28379-3932,,,Arms Manufacturer,Scott Taunton,,Individual Contribution,01,Credit Card,,300.0000,300.0000
+11/06/2023,,Raymond Thomason Jr.,409 Emerald Lake Dr,,Lumberton,NC,28358-8022,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,250.0000,250.0000
+10/20/2023,,William David Thurman,4225 Folkston Dr,,Charlotte,NC,28205-4110,,,Attorney,"Thurman, Wilson, Boutwell & Galvin, PA",,Individual Contribution,01,Check,,1000.0000,1000.0000
+11/06/2023,,James Todd,12461 Angus Dr,,Laurinburg,NC,28352-7703,,,CEO / Managing Owner,Service Thread,,Individual Contribution,01,Check,,5000.0000,5000.0000
+08/29/2023,,Stefan I Toth,105 Heart Pine Dr,,Cary,NC,27518-9077,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,100.0000,100.0000
+08/16/2023,,Jeffery B. Turner,2630 Stroud Hill Rd,,Pink Hill,NC,28572-9528,,,Farmer,Jeffery Turner,,Individual Contribution,01,Check,,1000.0000,1000.0000
+08/23/2023,,Richard Uihlein,1396 N Waukegan Rd,,Lake Forest,IL,60045-1147,,,CEO/Owner,Uline,,Individual Contribution,01,Check,,6400.0000,6400.0000
+12/10/2023,,Richard Van Gorp,81 Bayview Rd,,Lillington,NC,27546-4835,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+12/31/2023,,Vanguard Brokerage Services,PO Box 3009,,Monroe,WI,53566-8309,,,,,,Interest Earned,02,Electronic Funds Transfer,,4968.6400,4968.6400
+11/26/2023,,Ashley H Von Cannon,9534 Sardis Glen Dr,,Matthews,NC,28105-1569,,,Homemaker,No Employer,,Individual Contribution,01,Credit Card,,500.0000,500.0000
+09/26/2023,,Fred Von Canon,1336 Reservoir View Lane,,Wake Forest,NC,27587-1836,,,Executive,Maverick Solutions,,Individual Contribution,01,Credit Card,,6400.0000,6400.0000
+11/08/2023,,Robert E Ward,7004 Lone Oak Pl,,Raleigh,NC,27615-5453,,,RE Broker,HomeTowne Realty Commercial,,Individual Contribution,01,Check,,250.0000,250.0000
+09/14/2023,,Andrew Weathersbee,2223 Croydon Rd,Apt 403,Charlotte,NC,28207-2821,,,Own Providence Preparatory School,Providence Preparatory School,,Individual Contribution,01,Credit Card,,500.0000,1000.0000
+08/14/2023,,James Whitehurst III,505 Guilder Ln,,Greenville,NC,27858-6581,,,CEO,"Coastal AgroBusiness, Inc.",,Individual Contribution,01,Credit Card,,500.0000,500.0000
+10/03/2023,,George T Wilcox,1924 Kensal Ct,,Charlotte,NC,28211-1713,,,Financial Planner,George Wilcox,,Individual Contribution,01,Check,,250.0000,250.0000
+12/05/2023,,Ben Williamson,909 New Jersey Ave SE,613,Washington,DC,20003-3382,,,Chief Of Staff,US House of Rep,,Individual Contribution,01,Credit Card,,100.0000,100.0000
+08/23/2023,,Edward Jenner Wood IV,2960 Saint Andrews Ln,,Charlotte,NC,28205-3737,,,Sales,Charlotte Pipe & Foundry,,Individual Contribution,01,Check,,1000.0000,1000.0000
+11/08/2023,,Michele Woodhouse,21 Old Pasture Way,,Laurel Park,NC,28739-3132,,,Consultant,Purple Door Aesthetics,,Individual Contribution,01,Check,,100.0000,100.0000
+09/04/2023,,Stephen M Woodward,180 Linden Rd,,Pinehurst,NC,28374-9066,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,100.0000,2000.0000
+10/04/2023,,Stephen M Woodward,180 Linden Rd,,Pinehurst,NC,28374-9066,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,100.0000,2000.0000
+11/02/2023,,Stephen M Woodward,180 Linden Rd,,Pinehurst,NC,28374-9066,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,1500.0000,2000.0000
+11/04/2023,,Stephen M Woodward,180 Linden Rd,,Pinehurst,NC,28374-9066,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,100.0000,2000.0000
+12/04/2023,,Stephen M Woodward,180 Linden Rd,,Pinehurst,NC,28374-9066,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,100.0000,2000.0000
+08/22/2023,,Robert N. Yearwood,2539 Flintgrove Rd,,Charlotte,NC,28226-5618,,,Consultant,Carolina IT Professionals,,Individual Contribution,01,Check,,100.0000,100.0000
+09/22/2023,,Beth Zeiss,14008 Point Lookout Rd,,Charlotte,NC,28278-7325,,,No Job Title,Not Employed,,Individual Contribution,01,Check,,500.0000,500.0000
+10/06/2023,,Stephen Zelnak,409 Drummond Dr,,Raleigh,NC,27609-7033,,,No Job Title,Not Employed,,Individual Contribution,01,Credit Card,,6400.0000,6400.0000
+09/07/2023,,John Zumwalt,135 Autumn Ridge Ln,,Aberdeen,NC,28315-5751,,,Broadcaster,WEEB Radio,,Individual Contribution,01,Check,,1000.0000,1000.0000
+
